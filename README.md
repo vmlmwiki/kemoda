@@ -56,7 +56,7 @@ xubuntu分为了两个版本，一个是桌面版，一个是迷你版
 
 6.进入U盘启动，你会来到这个页面
 
-![科模达的附件](https://github.com/vmlmwiki/kemoda/raw/refs/heads/main/files/image1.png)
+![科模达的附件](https://github.com/vmlmwiki/kemoda/blob/main/files/image001.png?raw=true)
 
 按回车进入Xubuntu安装程序
 
