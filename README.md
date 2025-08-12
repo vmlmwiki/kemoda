@@ -4,9 +4,7 @@
 
 BiliBili科模达 10月26日建立的附件表
 
-为了不断更好，我们将更新为科模达的附件
-
-我的电脑最多可以开2048x1152的分辨率，因此4K分辨率将于AI工具修补到4K
+为了不断更好，我们将更新为科模达的附件，旧称小模组QZ
 
 科模达不断改进，更好修复
 
@@ -56,7 +54,7 @@ xubuntu分为了两个版本，一个是桌面版，一个是迷你版
 
 6.进入U盘启动，你会来到这个页面
 
-![科模达的附件](https://github.com/vmlmwiki/kemoda/blob/main/files/image001.png?raw=true)
+![科模达的附件](https://github.com/user-attachments/assets/f95b337d-f827-45dd-9409-5d6a38aefd70)
 
 按回车进入Xubuntu安装程序
 
@@ -154,11 +152,19 @@ OK，这样我们的老电脑已经焕发一新了，不升级硬件就能搭建
 
 下载链接：
 
-普通版：https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/xubuntu/releases/24.04/release/xubuntu-24.04.1-desktop-amd64.iso
+普通版：[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/xubuntu/releases/24.04/release/xubuntu-24.04.2-desktop-amd64.iso)
 
-迷你版：https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/xubuntu/releases/24.04/release/xubuntu-24.04.1-minimal-amd64.iso
+迷你版：[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/xubuntu/releases/24.04/release/xubuntu-24.04.2-minimal-amd64.iso)
+
+如果使用此站下载时提示阻断此类请求或403 Forbidden时，请尝试下面下载
+
+普通版：[阿里云镜像站](https://mirrors.aliyun.com/ubuntu-cdimage/xubuntu/releases/24.04/release/xubuntu-24.04.2-desktop-amd64.iso)
+
+迷你版：[阿里云镜像站](https://mirrors.aliyun.com/ubuntu-cdimage/xubuntu/releases/24.04/release/xubuntu-24.04.2-minimal-amd64.iso)
 
 # Part 2：给老旧电脑搭建一台frp服务器，配合公网IP建立实现内网穿透
+
+![科模达的附件](https://github.com/user-attachments/assets/84292465-a37f-42b4-a436-126536ce4460)
 
 ## 首先我们下载frp：
 
@@ -176,20 +182,31 @@ https://github.com/fatedier/frp/releases
 
 ## 将frps设置为自启动
 
+![科模达的附件](https://github.com/user-attachments/assets/b2417e8d-845d-497a-9585-6245b3cbb7c8)
+
 1.在这个frp的文件夹里面创建txt文档
 
-1.  名称为[frps.sh](https://frps.sh)
-2.  编辑以下内容
+2.名称为frps.sh
+
+3.编辑以下内容
+
+<img width="866" height="699" alt="image" src="https://github.com/user-attachments/assets/bcf89ee0-a672-4695-a232-d5cb8a75baf9" />
 
 cd 是frp的文件夹路径
 
 ./frps -c frps.toml，保存即可
 
-1.  开始菜单，设置，会话和启动
+4.开始菜单，设置，会话和启动
+
+<img width="720" height="833" alt="image" src="https://github.com/user-attachments/assets/e631ecc7-2878-4e12-be46-5f738292cdd6" />
 
 应用程序自启动，添加
 
+<img width="866" height="792" alt="image" src="https://github.com/user-attachments/assets/2b699a1b-126e-4d1b-a1ae-73dddef0c11f" />
+
 名称和描述随便填，命令这里输入sh #frps.sh文件的地址#，触发器选择登录时
+
+<img width="550" height="448" alt="image" src="https://github.com/user-attachments/assets/55722f77-9da8-42ec-936e-41a5854412da" />
 
 不过这样做的话只能在xrdp登陆的时候会自动开启，直接开机是不行了
 
@@ -198,6 +215,8 @@ cd 是frp的文件夹路径
 ## 如何配置frpc？
 
 1.编辑frpc.toml这里
+
+<img width="456" height="359" alt="image" src="https://github.com/user-attachments/assets/fd8ccc18-fc5c-48db-b5be-76a5a4479993" />
 
 serverAddr是frps的服务器IP地址
 
@@ -286,7 +305,9 @@ remotePort是远程端口，不要对服务器端口冲突
 
 下载链接：
 
-https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/lubuntu/releases/24.04.1/release/lubuntu-24.04.1-desktop-amd64.iso
+[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/lubuntu/releases/24.04.2/release/lubuntu-24.04.2-desktop-amd64.iso)
+
+如果你提示阻断了此类请求或403 Forbidden时，请使用[阿里云镜像站](https://mirrors.aliyun.com/ubuntu-cdimage/lubuntu/releases/24.04.2/release/lubuntu-24.04.2-desktop-amd64.iso)
 
 # Part 5：Ubuntu Server下载安装，如何设置北京时间、中文、当网盘？
 
@@ -296,21 +317,29 @@ https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/lubuntu/releases/24.04.1/rel
 
 点击下载服务器版
 
-点击下载Ubuntu Server 24.04.1 LTS
+点击下载Ubuntu Server 24.04.2 LTS
 
-如果下载速度慢，可以去https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/24.04.1/ubuntu-24.04.1-live-server-amd64.iso
+如果下载速度慢，可以去[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/24.04.2/ubuntu-24.04.2-live-server-amd64.iso)
+
+如果你提示阻断了此类请求或403 Forbidden时，请使用[阿里云镜像站](https://mirrors.aliyun.com/ubuntu-releases/24.04.2/ubuntu-24.04.2-live-server-amd64.iso)
 
 下载完成后，可以制作U盘启动盘
 
 ## 如何安装？
 
-1.  从U盘启动
-2.  按回车
-3.  看到这个界面
+1.从U盘启动
 
-1.  按回车
-2.  键盘选择chinese
-3.  
+2.按回车
+
+3.到这个界面
+
+<img width="866" height="495" alt="image" src="https://github.com/user-attachments/assets/cfbb5406-4df1-42aa-a370-aa616a9a1b27" />
+
+4.按回车
+
+5.键盘选择chinese
+
+6.<img width="831" height="341" alt="image" src="https://github.com/user-attachments/assets/717bec24-1fb7-4f86-92dd-fd99a054ffa1" />
 
 有两个选项，可以选择
 
