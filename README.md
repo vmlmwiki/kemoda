@@ -4,6 +4,8 @@
 
 BiliBili科模达 10月26日建立的附件表
 
+GitHub协助用户：tinymoduleQZforworkgroup
+
 为了不断更好，我们将更新为科模达的附件，旧称小模组QZ
 
 科模达不断改进，更好修复
