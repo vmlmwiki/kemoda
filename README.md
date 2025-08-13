@@ -401,7 +401,7 @@ sudo timedatectl set-timezone Asia/Shanghai
 
 下载链接：ed2k://|file|zh-cn_windows_server_2025_x64_dvd_1d93dd12.iso|6222254080|ADB825759C4D4B8CAADCE106D9C50A73|/
 
-博通官网：[broadcom.com](https://broadcom.com)
+博通官网：[立即前往](https://broadcom.com)
 
 密钥：
 
@@ -419,7 +419,7 @@ sudo timedatectl set-timezone Asia/Shanghai
 
 # Part 7：VirtualBox虚拟机下载链接
 
-下载链接：https://mirrors.tuna.tsinghua.edu.cn/virtualbox/7.1.4/VirtualBox-7.1.4-165100-Win.exe
+下载链接：https://download.virtualbox.org/virtualbox/7.1.12/VirtualBox-7.1.12-169651-Win.exe
 
 # Part 8：2024年，Ubuntu 18.04还能用吗？
 
@@ -475,7 +475,7 @@ fcitx5 wqy-zenhei wqy-microhei
 
 ## 下载工具：
 
-工具会放在粉丝群里，有兴趣可以加入
+工具会放在[附件盘](https://pan.moe/s/jkn8FD)
 
 将三个文件下载下来
 
@@ -525,9 +525,44 @@ sudo sh ./[lnx-install.sh](https://lnx-install.sh)
 
 ### Windows：
 
+<img width="866" height="615" alt="image" src="https://github.com/user-attachments/assets/ba724050-b677-43b6-840e-bd292459b67e" />
+
+<img width="780" height="677" alt="image" src="https://github.com/user-attachments/assets/95bb7ae3-ef94-41f5-a5a6-a7378f031f26" />
+
+<img width="780" height="677" alt="image" src="https://github.com/user-attachments/assets/4df8ff47-3a78-473a-b002-aa1ec8d8a1a0" />
+
+<img width="780" height="677" alt="image" src="https://github.com/user-attachments/assets/3b774980-a03c-44eb-9a60-a06bf7a9a349" />
+
+<img width="780" height="677" alt="image" src="https://github.com/user-attachments/assets/4071a58d-34a5-4223-9d4a-5c2c519c34f0" />
+
+<img width="780" height="677" alt="image" src="https://github.com/user-attachments/assets/9072ca19-9d1d-431b-9ad8-11247fe96fac" />
+
 因为macOS的要求非常高，至少2核以上，推荐4核以上
 
+<img width="780" height="677" alt="image" src="https://github.com/user-attachments/assets/c5b702b0-b945-45f7-bf18-11d93638c223" />
+
 内存推荐8GB以上
+
+<img width="780" height="677" alt="image" src="https://github.com/user-attachments/assets/7a376b6c-450a-4bfa-88a5-b6acd991820d" />
+
+<img width="780" height="677" alt="image" src="https://github.com/user-attachments/assets/a8d01917-39c8-42eb-bf54-cbb0fb5033db" />
+
+<img width="780" height="677" alt="image" src="https://github.com/user-attachments/assets/b57944f4-9eec-49f9-82c2-2601f4eefe17" />
+
+<img width="780" height="677" alt="image" src="https://github.com/user-attachments/assets/9f51d3e1-2fcd-4de7-a868-0b3b6a9d2ead" />
+
+<img width="780" height="677" alt="image" src="https://github.com/user-attachments/assets/e9489f65-0467-4072-981f-0cffdedc9423" />
+
+<img width="780" height="677" alt="image" src="https://github.com/user-attachments/assets/60d959fc-e7de-4da0-82b2-d2068aa97b7d" />
+
+<img width="780" height="677" alt="image" src="https://github.com/user-attachments/assets/faf0b0f0-11b4-4279-81fa-47faa027d5d4" />
+
+<img width="866" height="923" alt="image" src="https://github.com/user-attachments/assets/9eb3fd6c-3f35-476a-84e9-519d461a5a35" />
+
+<img width="866" height="923" alt="image" src="https://github.com/user-attachments/assets/92ffa13c-89b6-4552-8495-6739296dfde4" />
+
+<img width="780" height="677" alt="image" src="https://github.com/user-attachments/assets/9b18cc39-d485-45fc-b87e-b45fc5af2f5d" />
+
 
 ### Linux：
 
