@@ -28,4 +28,4 @@ VMLM团队至于 @吴增林 疑问和开发，在使用的过程中，报告问�
 
 * 4.如果是刑度违反的，除了中度违反出现的规则以外，将会把对应的GitHub帐户永久从VMLM服务封禁
 
-如需申诉，可前往 [邮件申诉](mailto://@kemoda200@outlook.com)
+如需申诉，可前往 [邮件申诉](mailto://kemoda200@outlook.com)
