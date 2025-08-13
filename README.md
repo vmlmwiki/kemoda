@@ -10,6 +10,10 @@ BiliBili科模达 10月26日建立的附件表
 
 新的MarkDown文本附件
 
+如需报告问题，可通过[发送 Issues](https://github.com/vmlmwiki/kemoda/issues) 或 联系邮件：kemoda200@outlook.com
+
+在报告问题之前，请阅读并接受[问题报告守则](https://github.com/vmlmwiki/kemoda/blob/main/ISSUES_REPORT_RULES.md)，以帮助遵守规则
+
 # Part 1：默认桌面太卡，容易死机？XUbuntu轻量级系统如何让老电脑更流畅，搭建服务器
 
 如果你的老电脑是机械硬盘，装Win7、Win10、Win11系统，那么开机速度慢，打开软件慢，如果用的是精简版的系统，那么会导致某些系统组件出现问题，如果这样慢的话，装XP系统虽然有稳定性要求，但是会蓝屏死机，而Ubuntu的原版桌面系统比较卡顿，打开个软件卡半天，因为基于GNOME环境可是舍不得买一块固态硬盘，因为固态硬盘要200~300了。
