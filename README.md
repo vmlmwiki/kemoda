@@ -563,8 +563,45 @@ sudo sh ./[lnx-install.sh](https://lnx-install.sh)
 
 <img width="780" height="677" alt="image" src="https://github.com/user-attachments/assets/9b18cc39-d485-45fc-b87e-b45fc5af2f5d" />
 
-
 ### Linux：
+
+<img width="866" height="539" alt="image" src="https://github.com/user-attachments/assets/6de85993-06f5-432f-a572-ceaf8621b6e0" />
+
+<img width="866" height="733" alt="image" src="https://github.com/user-attachments/assets/360d42ea-8963-4008-971f-3f7ba3ba253a" />
+
+<img width="866" height="758" alt="image" src="https://github.com/user-attachments/assets/c7b1d87a-f5b1-4129-b0c7-fd16debe94f0" />
+
+<img width="866" height="732" alt="image" src="https://github.com/user-attachments/assets/36b01283-c718-490f-af4d-f760719b8a22" />
+
+<img width="866" height="748" alt="image" src="https://github.com/user-attachments/assets/86a2d6a0-d988-4a23-99f5-bd0451b1d771" />
+
+<img width="866" height="745" alt="image" src="https://github.com/user-attachments/assets/1262b6a7-8bb5-4cb3-82ce-27e7c92f7b02" />
+
+<img width="866" height="726" alt="image" src="https://github.com/user-attachments/assets/5f68e77a-90f0-4bc9-a1d7-8ca762436708" />
+
+<img width="866" height="741" alt="image" src="https://github.com/user-attachments/assets/b8889edf-7776-43b2-97c7-0fc5ba9145ef" />
+
+<img width="866" height="718" alt="image" src="https://github.com/user-attachments/assets/4e7cfff7-d3ed-47b4-8e61-5c5add2a8fc6" />
+
+<img width="866" height="736" alt="image" src="https://github.com/user-attachments/assets/54eeee19-a531-4986-8347-347285a71ce2" />
+
+<img width="866" height="738" alt="image" src="https://github.com/user-attachments/assets/4550815e-fdc9-4517-9edc-045d20bc6d6d" />
+
+<img width="866" height="733" alt="image" src="https://github.com/user-attachments/assets/dbd7f376-e6bb-48bc-ac0d-426044acffe6" />
+
+<img width="866" height="730" alt="image" src="https://github.com/user-attachments/assets/7be7a813-2e66-498f-9057-0dd37fbe40a8" />
+
+<img width="866" height="726" alt="image" src="https://github.com/user-attachments/assets/b0b47583-1f6c-45ad-a293-55db5549b6b6" />
+
+<img width="866" height="743" alt="image" src="https://github.com/user-attachments/assets/e1c904b2-7007-4d97-8a59-47ba2d0924aa" />
+
+<img width="866" height="670" alt="image" src="https://github.com/user-attachments/assets/bdde8b4b-0446-4f59-b600-1434a964e6b5" />
+
+<img width="866" height="737" alt="image" src="https://github.com/user-attachments/assets/c6887cee-47a8-4fb9-b237-12dcc257473a" />
+
+<img width="866" height="739" alt="image" src="https://github.com/user-attachments/assets/9c367f31-ec97-4e3f-9401-7d81f118872e" />
+
+<img width="866" height="538" alt="image" src="https://github.com/user-attachments/assets/c4e6f1c2-5b77-4101-a0c8-3bbe107d648f" />
 
 ### 安装：
 
@@ -594,19 +631,35 @@ cpuid.1.edx = "0000:0111:1000:1011:1111:1011:1111:1111"
 
 开启虚拟机，就可以进入安装程序了
 
+<img width="866" height="649" alt="image" src="https://github.com/user-attachments/assets/8966f99b-85cc-4f91-8c2f-5fac83c177bb" />
+
+<img width="866" height="649" alt="image" src="https://github.com/user-attachments/assets/688f5978-74fe-458a-b080-ef142fde3c6b" />
+
 语言选择简体中文，点击窗口右下角的箭头按钮
 
+<img width="866" height="649" alt="image" src="https://github.com/user-attachments/assets/2d93b575-ad09-470c-9bd2-f7369a27c235" />
+
 点击磁盘工具，点击继续
+
+<img width="866" height="649" alt="image" src="https://github.com/user-attachments/assets/f98950a8-999c-49c4-8ed9-dba92de7b536" />
 
 点击最上面的那个VMware Virtual那个
 
 点击抹掉
 
+<img width="866" height="449" alt="image" src="https://github.com/user-attachments/assets/61db3686-7f05-4ed0-b0a4-9bb8bc807b07" />
+
 名称随便填，点抹掉
+
+<img width="866" height="325" alt="image" src="https://github.com/user-attachments/assets/8fea8efe-dc49-4f5f-94ce-f5645ec2c59f" />
 
 完成关闭
 
+<img width="866" height="649" alt="image" src="https://github.com/user-attachments/assets/79555deb-1e64-4ea2-95df-3c3370037901" />
+
 点击窗口左上角的红点按钮，关闭
+
+<img width="866" height="649" alt="image" src="https://github.com/user-attachments/assets/b2e342fa-13f1-4165-b09d-96931458bc41" />
 
 执行安装，点击继续
 
@@ -614,19 +667,25 @@ cpuid.1.edx = "0000:0111:1000:1011:1111:1011:1111:1111"
 
 选择磁盘，点击安装，等待安装完成，安装完会自动重启，耐心等待，安装完成后就会让你设置，根据你的需求设置即可
 
+<img width="866" height="649" alt="image" src="https://github.com/user-attachments/assets/e9f3c3c8-839f-4271-b89b-43c79b52a5d3" />
+
 ## 安装增强工具：
 
 将下载好的darwin.iso和darwinPre15.iso复制到VMware虚拟机的文件夹，如果是Linux，那么要复制到/usr/lib/vmware/isoimages文件夹里（Linux需要ROOT权限才能复制）
+
+<img width="866" height="649" alt="image" src="https://github.com/user-attachments/assets/0d887c59-e91a-46c0-a6f8-e1515cb4f312" />
 
 在虚拟机上，光盘右键，推出
 
 在虚拟机选项卡右键，安装 VMware Tools
 
+<img width="866" height="649" alt="image" src="https://github.com/user-attachments/assets/f126aa45-0b6d-40ed-802f-ee7e017f0dff" />
+
 双击安装 VMware Tools
 
-2024-11-24 14-56-00.mkv
+https://github.com/user-attachments/assets/a5a50a42-f708-49c2-acf7-15eb6f8c6f19
 
-# Part 11：Windows 11 IoT LTSC 2024 26100.2454 （快捷安装懒人包 · 一键安装运行库及激活）
+# Part 11：（已失效） Windows 11 IoT LTSC 2024 26100.2454 （快捷安装懒人包 · 一键安装运行库及激活）
 
 ## 系统介绍：
 
@@ -647,7 +706,7 @@ cpuid.1.edx = "0000:0111:1000:1011:1111:1011:1111:1111"
 
 下载可从链接2进行下载：
 
-https://pan.xiaomuxi.cn/s/9mZGtd
+https://pan.xiaomuxi.cn/s/9mZGtd（已失效，不再可用）
 
 # Part 12：Mac OS X 10.3 Panther（PPC版）
 
