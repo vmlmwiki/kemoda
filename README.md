@@ -689,6 +689,18 @@ https://github.com/user-attachments/assets/a5a50a42-f708-49c2-acf7-15eb6f8c6f19
 
 ## 系统介绍：
 
+<img width="866" height="649" alt="image" src="https://github.com/user-attachments/assets/33060b62-a811-4c10-96df-384545728c5c" />
+
+<img width="866" height="649" alt="image" src="https://github.com/user-attachments/assets/14727dd5-7af9-4054-802a-583040d09973" />
+
+<img width="866" height="649" alt="image" src="https://github.com/user-attachments/assets/38c1a568-27d2-40e7-90d6-d118bb96503f" />
+
+<img width="866" height="649" alt="image" src="https://github.com/user-attachments/assets/36db2ca2-a63d-45d3-af44-b3ae3665b512" />
+
+<img width="866" height="649" alt="image" src="https://github.com/user-attachments/assets/0fd7af2b-c575-40bb-be31-55448b37e546" />
+
+<img width="866" height="649" alt="image" src="https://github.com/user-attachments/assets/cc5213f3-fbb2-4d64-9048-19803462d32f" />
+
 1.  无人值守
 2.  系统经过优化（关闭了UAC、VBS等功能）
 3.  修复安装程序的汉化问题
@@ -706,7 +718,7 @@ https://github.com/user-attachments/assets/a5a50a42-f708-49c2-acf7-15eb6f8c6f19
 
 下载可从链接2进行下载：
 
-https://pan.xiaomuxi.cn/s/9mZGtd（已失效，不再可用）
+https://pan.xiaomuxi.cn/s/9mZGtd （已失效，不再可用）
 
 # Part 12：Mac OS X 10.3 Panther（PPC版）
 
@@ -732,47 +744,7 @@ change ide1-cd0 “ISO文件”
 
 https://pan.xiaomuxi.cn/s/9mZGtd
 
-# Part 14：从Windows 11 24H2降级到23H2（专栏）
-
-有些运行24H2的小伙伴们，会遇到很多bug
-
-例如资源管理器点更多弹出位置错误，部分设备蓝屏，强制开启VBS等
-
-小模组QZ这寒假的三天做了一个降级包
-
-此程序是实验性程序，请谨慎使用
-
-注意：以下截图是工厂测试
-
-暂时仅兼容24H2正式版的X64版且非LTSC：
-
-一共13个版本
-
-此外，小模组QZ将会制作一个重装工具，兼容在解压的降级包文件夹里面执行，兼容更多版本，更多功能
-
-有三个选项，其中第一项是实验性的，小模组QZ经过了很多次保留数据都提示回滚，小白尽量不要选择第一项
-
-其中二选项和三选项是完美的，但注意，资料要备份好
-
-降级前注意：
-
-1.降级过程中一旦确认不能关闭此窗口
-
-2.降级前建议你关闭所有的应用程序
-
-3.降级前你需要使用本地账户，关闭BitLocker、CompactOS及关闭VBS（否则可能降级失败）
-
-4.确保选择没有问题可以降级
-
-5.降级前你可能需要备份数据
-
-6.降级有风险，请谨慎降级
-
-降级成功后，你可能需要重新设置
-
-此功能只适用于回滚功能不可用的电脑来降级该系统（实验性）
-
-暂未正式发布
+# Part 14：从Windows 11 24H2降级到23H2（专栏）（不可用）
 
 # Part 15：2025年1月 Windows首个更新下载链接：
 
