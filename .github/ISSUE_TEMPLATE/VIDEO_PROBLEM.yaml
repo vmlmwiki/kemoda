@@ -1,7 +1,7 @@
 name: 视频问题
 description: 存在视频，简介或素材问题（而非附件问题）
 title: VIDEO_PROBLEM
-labels: video_problem
+labels: ["video_problem"]
 body:
   - type: markdown
     id: welcome
