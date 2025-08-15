@@ -158,15 +158,15 @@ OK，这样我们的老电脑已经焕发一新了，不升级硬件就能搭建
 
 下载链接：
 
-普通版：[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/xubuntu/releases/24.04/release/xubuntu-24.04.2-desktop-amd64.iso)
+普通版：[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/xubuntu/releases/24.04/release/xubuntu-24.04.3-desktop-amd64.iso)
 
-迷你版：[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/xubuntu/releases/24.04/release/xubuntu-24.04.2-minimal-amd64.iso)
+迷你版：[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/xubuntu/releases/24.04/release/xubuntu-24.04.3-minimal-amd64.iso)
 
 如果使用此站下载时提示阻断此类请求或403 Forbidden时，请尝试下面下载
 
-普通版：[阿里云镜像站](https://mirrors.aliyun.com/ubuntu-cdimage/xubuntu/releases/24.04/release/xubuntu-24.04.2-desktop-amd64.iso)
+普通版：[阿里云镜像站](https://mirrors.aliyun.com/ubuntu-cdimage/xubuntu/releases/24.04/release/xubuntu-24.04.3-desktop-amd64.iso)
 
-迷你版：[阿里云镜像站](https://mirrors.aliyun.com/ubuntu-cdimage/xubuntu/releases/24.04/release/xubuntu-24.04.2-minimal-amd64.iso)
+迷你版：[阿里云镜像站](https://mirrors.aliyun.com/ubuntu-cdimage/xubuntu/releases/24.04/release/xubuntu-24.04.3-minimal-amd64.iso)
 
 # Part 2：给老旧电脑搭建一台frp服务器，配合公网IP建立实现内网穿透
 
@@ -311,9 +311,9 @@ remotePort是远程端口，不要对服务器端口冲突
 
 下载链接：
 
-[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/lubuntu/releases/24.04.2/release/lubuntu-24.04.2-desktop-amd64.iso)
+[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/lubuntu/releases/24.04.3/release/lubuntu-24.04.3-desktop-amd64.iso)
 
-如果你提示阻断了此类请求或403 Forbidden时，请使用[阿里云镜像站](https://mirrors.aliyun.com/ubuntu-cdimage/lubuntu/releases/24.04.2/release/lubuntu-24.04.2-desktop-amd64.iso)
+如果你提示阻断了此类请求或403 Forbidden时，请使用[阿里云镜像站](https://mirrors.aliyun.com/ubuntu-cdimage/lubuntu/releases/24.04.3/release/lubuntu-24.04.3-desktop-amd64.iso)
 
 # Part 5：Ubuntu Server下载安装，如何设置北京时间、中文、当网盘？
 
@@ -325,9 +325,9 @@ remotePort是远程端口，不要对服务器端口冲突
 
 点击下载Ubuntu Server 24.04.2 LTS
 
-如果下载速度慢，可以去[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/24.04.2/ubuntu-24.04.2-live-server-amd64.iso)
+如果下载速度慢，可以去[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/24.04.3/ubuntu-24.04.3-live-server-amd64.iso)
 
-如果你提示阻断了此类请求或403 Forbidden时，请使用[阿里云镜像站](https://mirrors.aliyun.com/ubuntu-releases/24.04.2/ubuntu-24.04.2-live-server-amd64.iso)
+如果你提示阻断了此类请求或403 Forbidden时，请使用[阿里云镜像站](https://mirrors.aliyun.com/ubuntu-releases/24.04.3/ubuntu-24.04.3-live-server-amd64.iso)
 
 下载完成后，可以制作U盘启动盘
 
