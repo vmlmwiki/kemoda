@@ -1,0 +1,30 @@
+name: 附件问题
+description: 存在视频简介的附件存在问题
+title: FILE_PROBLEM
+labels: ["404 Not Found"]
+body:
+  - type: markdown
+    id: welcome
+    attributes:
+      value: |
+        欢迎反馈科模达的附件内容，不管你是YouTube看的，哔哩哔哩看的，还是东南亚版哔哩哔哩看的，在视频下方的附件遭到问题时，都可以向我们反馈附件问题
+  - type: checkboxes
+    id: checksum
+    attributes:
+      label: 先决条件
+      options:
+        - label: |
+            我已经仔细阅读了科模达的问题[报告规则](https://github.com/vmlmwiki/kemoda/blob/main/ISSUES_REPORT_RULES.md)
+          required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: 反馈问题：
+    validations:
+      required: true
+  - type: textarea
+    id: more_info
+    attributes:
+      label: 反馈理由：
+    validations:
+      required: false
