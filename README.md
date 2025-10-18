@@ -16,6 +16,12 @@ GitHub协助用户：tinymoduleQZforworkgroup
 
 在报告问题之前，请阅读并接受[问题报告守则](https://github.com/vmlmwiki/kemoda/blob/main/ISSUES_REPORT_RULES.md)，以帮助遵守规则
 
+# Part 20：如何升级到Windows 11 25H2？
+
+下载链接：https://pan.moe/s/BGWDu1
+
+Windows 10 升级到 Windows 11将在下期视频发布
+
 # Part 19：评测红米4A安卓6.0
 
 红米4A是小米公司在2016年11月发布的一台手机，出厂搭载了MIUI 8 基于安卓6.0，最新版本为MIUI 10 基于安卓6.0，目前来讲，2019年5月停止了对红米4A的更新
