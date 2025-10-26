@@ -12,6 +12,10 @@ GitHub协助用户：tinymoduleQZforworkgroup
 
 在报告问题之前，请阅读并接受[问题报告守则](https://github.com/vmlmwiki/kemoda/blob/main/ISSUES_REPORT_RULES.md)，以帮助遵守规则
 
+# Part 21：如何在不满足的电脑上，升级到Windows 11系统？
+
+下载链接：https://pan.moe/s/zOBbF0
+
 # Part 20：如何升级到Windows 11 25H2？
 
 下载链接：https://pan.moe/s/BGWDu1
